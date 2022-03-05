@@ -1,0 +1,12 @@
+/* style sheet */
+
+body { background-color: #C0C0C0; }
+
+div.c1 {text-align: center; font-weight: bold;}
+div.c4 {text-align: center;}
+img.c2 {border: 0px solid ; width: 88px; height: 31px;}
+img.c2 {border:0;width:88px;height:31px}
+li.c1 {list-style: none}
+p.c3 {text-align: center;}
+
+/* End of File */
